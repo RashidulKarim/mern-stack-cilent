@@ -1,0 +1,14 @@
+.form form input{
+    display: block;
+    padding: 5px;
+    margin: 10px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
